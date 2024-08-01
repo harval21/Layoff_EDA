@@ -1,4 +1,4 @@
-# Data Cleaning & EDA on Company Layoff Data
+# Data Cleaning & EDA in SQL on Company Layoff Data
 
 ## 📜PROJECT SUMMARY
 
